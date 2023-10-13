@@ -11,7 +11,9 @@ The players may count aloud to three, or speak the name of the game (e.g. "Rock!
 # Rules
 A player who decides to play rock will beat another player who has chosen scissors ("rock crushes scissors" or sometimes "blunts scissors"), but will lose to one who has played paper ("paper covers rock"); a play of paper will lose to a play of scissors ("scissors cuts paper"). If both players choose the same shape, the game is tied and is usually immediately replayed to break the tie.
 
+
 <img width="464" alt="Screenshot 2023-10-13 120700" src="https://github.com/Google-Developer-Student-Club-MBU/rock-paper-scissor/assets/99669084/9cfdb66f-6106-4250-b36c-b5b83ac8eaa3">
+
 
 # Possible cases
 
